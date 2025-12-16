@@ -107,8 +107,6 @@ Each project includes:
 - **Error handling**
 - **Cross-platform development**
 
-All projects are ready to compile with MinGW on Windows using `gcc -o project_name main.c` (with appropriate flags where needed) and follow standard C programming practices.
-
 For a complete overview of all 20 projects, see the [Project Summary](PROJECT_SUMMARY.md).
 
 ## Completion Status
